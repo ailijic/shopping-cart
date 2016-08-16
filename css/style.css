@@ -1,0 +1,33 @@
+body{
+	font-family: sans-serif;
+	font-size: 1rem;
+	width: 40rem;
+	margin-left: auto;
+	margin-right:auto;
+}
+.header, .list-header, .totals{
+	font-weight: bold;
+}
+.header{
+	margin: 2rem 0rem;
+}
+ul{	font-size: 0rem }
+ul li{
+	display: inline;
+	font-size: 1rem;
+}
+.items{
+	min-height: 1rem;
+}
+.no-name{
+	text-align: right;
+}
+.totals{
+	text-align: right;
+	display: inline;
+}
+.numbers{
+	min-width: 5rem;
+	display: inline;
+	text-align: right;
+}
